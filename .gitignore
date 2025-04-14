@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Env & Keys
+.env
+
+# Data
+*.index
+*.csv
+*.json
+*.xml
+*.pdf
+*.png
+
+# IDE
+.vscode/
+*.code-workspace
